@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0162.jpg</filename>
+	<path>/Volumes/Data/Custom-Object-Detection/images/0162.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>462</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>egg_box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>293</ymin>
+			<xmax>156</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

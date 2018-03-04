@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0128.jpg</filename>
+	<path>/Users/iashchak/Desktop/Custom-Object-Detection/images/0128.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>365</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>217</ymin>
+			<xmax>302</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

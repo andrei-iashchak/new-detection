@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0230.jpg</filename>
+	<path>/Volumes/Data/Custom-Object-Detection/images/0230.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>424</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grape</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>81</ymin>
+			<xmax>347</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>
